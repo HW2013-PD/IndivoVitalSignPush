@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>XsdClassGen</id>
+    <version>0.5</version>
+    <authors>Rupert Benbrook</authors>
+    <owners>Rupert Benbrook</owners>
+    <projectUrl>http://phazed.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A T4 template to generate XmlSerializer classes that represent the XML Schemas (XSD) in the project.</description>
+    <tags>XSD XML XmlSerializer T4</tags>
+    <references />
+  </metadata>
+</package>

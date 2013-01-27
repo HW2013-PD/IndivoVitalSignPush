@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndivoVitalSignPush", "IndivoVitalSignPush\IndivoVitalSignPush.csproj", "{4F66848C-5ED7-4CE2-B7EF-6E104DB2B31B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPLibrary", "TCPLibrary\TCPLibrary.csproj", "{9B635708-F522-4050-8E4F-7300B512095A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndivoClient", "IndivoClient\IndivoClient.csproj", "{B23D7A2D-A5F8-4999-999B-EEAB69C5DE10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F66848C-5ED7-4CE2-B7EF-6E104DB2B31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F66848C-5ED7-4CE2-B7EF-6E104DB2B31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F66848C-5ED7-4CE2-B7EF-6E104DB2B31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F66848C-5ED7-4CE2-B7EF-6E104DB2B31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B635708-F522-4050-8E4F-7300B512095A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B635708-F522-4050-8E4F-7300B512095A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B635708-F522-4050-8E4F-7300B512095A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B635708-F522-4050-8E4F-7300B512095A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23D7A2D-A5F8-4999-999B-EEAB69C5DE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23D7A2D-A5F8-4999-999B-EEAB69C5DE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23D7A2D-A5F8-4999-999B-EEAB69C5DE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23D7A2D-A5F8-4999-999B-EEAB69C5DE10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

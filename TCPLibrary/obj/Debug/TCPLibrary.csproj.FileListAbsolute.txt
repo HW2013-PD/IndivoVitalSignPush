@@ -1,0 +1,4 @@
+C:\Github\IndivoVitalSignPush\TCPLibrary\bin\Debug\TCPLibrary.dll
+C:\Github\IndivoVitalSignPush\TCPLibrary\bin\Debug\TCPLibrary.pdb
+C:\Github\IndivoVitalSignPush\TCPLibrary\obj\Debug\TCPLibrary.dll
+C:\Github\IndivoVitalSignPush\TCPLibrary\obj\Debug\TCPLibrary.pdb

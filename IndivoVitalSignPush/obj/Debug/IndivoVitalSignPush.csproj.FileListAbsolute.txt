@@ -1,0 +1,10 @@
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\bin\Debug\IndivoVitalSignPush.exe.config
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\bin\Debug\IndivoVitalSignPush.exe
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\bin\Debug\IndivoVitalSignPush.pdb
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\bin\Debug\IndivoClient.dll
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\bin\Debug\TCPLibrary.dll
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\bin\Debug\IndivoClient.pdb
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\bin\Debug\TCPLibrary.pdb
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\obj\Debug\IndivoVitalSignPush.csprojResolveAssemblyReference.cache
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\obj\Debug\IndivoVitalSignPush.exe
+C:\Github\IndivoVitalSignPush\IndivoVitalSignPush\obj\Debug\IndivoVitalSignPush.pdb
