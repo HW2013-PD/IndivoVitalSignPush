@@ -42,9 +42,14 @@ namespace IndivoVitalSignPush
 
             VitalSign vs = new VitalSign();
 
+            vs.name = new CodedValue() { abbrev = "a", type = "a", value = "a", Value = "a" };
+            vs.position = "EmptyPosition";
+            vs.measuredBy = "MeasuredByCup";
+            vs.dateMeasuredStart = DateTime.Now;
             vs.dateMeasuredEnd = DateTime.Now;
-
             vs.result.value = Convert.ToDouble(dataArray[0],null);
+            vs.result.unit = new CodedValue() { abbrev = "a", type = "a", value = "a" };
+            vs.comments = "EmptyComments";
 
             client.SaveVitals(vs);
         }
